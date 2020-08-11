@@ -20,3 +20,8 @@
 //git add
 //git status
 //git commit -m " "
+
+//git log
+  //git log --pretty=oneline
+  // Really concise and detailed log messages:
+      //git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
